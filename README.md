@@ -1,1 +1,4 @@
-# learnflow-faq-chatbot-
+# learnflow-faq-chatbot/
+├── index.html
+├── style.css
+└── script.js
