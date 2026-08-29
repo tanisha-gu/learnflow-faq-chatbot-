@@ -1,3 +1,4 @@
+// HERE IS JS CODE 
 const apiKey = "sk-default-6iRtVqFmmO6Wlow6uV0QjCVgmMAzGoUQ";
 const agentId = "685e8f3aee9e7b0d87f6d65c";
 const apiUrl = `https://rag-prod.studio.lyzr.ai/agent/${agentId}/inference`;
